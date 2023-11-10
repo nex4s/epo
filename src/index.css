@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.pixel-font {
+    font-family: 'Pixelify Sans', sans-serif;
+
+}
